@@ -4,7 +4,7 @@
 title = Mobile App 001
 
 # (str) Package name
-package.name = where?
+package.name = where
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
