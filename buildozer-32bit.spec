@@ -4,7 +4,7 @@
 title = Mobile App 001
 
 # (str) Package name
-package.name = mobileapp001
+package.name = where?
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
@@ -29,7 +29,6 @@ source.dir = .
 
 # (str) Application versioning (method 1)
 version = 0.1
-
 # (str) Application versioning (method 2)
 # version.regex = __version__ = ['"](.*)['"]
 # version.filename = %(source.dir)s/main.py
